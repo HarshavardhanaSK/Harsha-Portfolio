@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Harsha-Portfolio/static/css/main.e5bb4941.css",
+    "main.js": "/Harsha-Portfolio/static/js/main.4dcf6bb1.js",
+    "static/js/453.8ab44547.chunk.js": "/Harsha-Portfolio/static/js/453.8ab44547.chunk.js",
+    "static/media/SAMP-2.png": "/Harsha-Portfolio/static/media/SAMP-2.4f29308e54e4dd4cddfc.png",
+    "index.html": "/Harsha-Portfolio/index.html",
+    "main.e5bb4941.css.map": "/Harsha-Portfolio/static/css/main.e5bb4941.css.map",
+    "main.4dcf6bb1.js.map": "/Harsha-Portfolio/static/js/main.4dcf6bb1.js.map",
+    "453.8ab44547.chunk.js.map": "/Harsha-Portfolio/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5bb4941.css",
+    "static/js/main.4dcf6bb1.js"
+  ]
+}
